@@ -47,3 +47,15 @@ One folder per topic. A page lives at `…/<topic>/index.md`. For example, `quan
 Frontmatter. Every `index.md` starts with YAML frontmatter that carries `title`, `description`, and `lang` for docs. Tutorials add `published`, `skill`, and `tags`.
 
 Internal links are root relative, for example `/developers/docs/accounts/`.
+
+## Links
+
+Website, https://quantova.org
+
+## Contributing
+
+See CONTRIBUTING.md. In short, edit or add an `index.md` under the right topic folder, keep the frontmatter, use root relative links, and open a pull request.
+
+## License
+
+See LICENSE.md. Documentation is copyright 2026 Quantova Inc.
