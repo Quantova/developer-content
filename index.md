@@ -27,3 +27,9 @@ Bitcoin, Ethereum, and Solana all depend on cryptography that a sufficiently cap
 - The client SDK is the QCore family. QCore.rs is the Rust core, QCore.js is published on npm as `@qunatovainc/qcore`, and QCore.py is the Python binding.
 - The fungible token standard is [QAsset](/developers/docs/standards/qasset/). The non fungible standard is [QCollectible](/developers/docs/standards/qcollectible/).
 - The name service is [QNS](/developers/docs/qns/), with domains under a capital Q top level domain such as Jeff.Q.
+
+## Where to go next
+
+- New to the cryptography, start with [post quantum cryptography](/developers/docs/post-quantum-cryptography/).
+- Building an app, see [smart contracts](/developers/docs/smart-contracts/) and the [APIs](/developers/docs/apis/).
+- Running infrastructure, see [nodes and clients](/developers/docs/nodes-and-clients/).
