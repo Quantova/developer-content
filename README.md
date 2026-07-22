@@ -39,3 +39,11 @@ public/
         deploy-your-first-qasset/
         run-a-quantova-node/
 ```
+
+## Conventions
+
+One folder per topic. A page lives at `…/<topic>/index.md`. For example, `quantova.org/developers/docs/qorus-consensus/` is built from `public/content/developers/docs/qorus-consensus/index.md`.
+
+Frontmatter. Every `index.md` starts with YAML frontmatter that carries `title`, `description`, and `lang` for docs. Tutorials add `published`, `skill`, and `tags`.
+
+Internal links are root relative, for example `/developers/docs/accounts/`.
